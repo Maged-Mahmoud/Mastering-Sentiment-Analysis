@@ -17,4 +17,7 @@ This notebook contains the most promised techniques that are implemented to clas
 * Model 10 bidirectional LSTM
 * Model 11 GRU 2 layers
 * Model 12 LSTM multiple layers
+* Classify text with HuggingFace pipelines
 * Classify text with BERT
+* Classify text with RoBERTa
+* Classify text with GPT
